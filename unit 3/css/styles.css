@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(0,0,90);
+	text-align: center;
+}
+#slogan {
+	color: rgb(207,207,198);
+	font-size: 22px;
+	font-weight: 500;
+	font-style: italic;
+	
+}
+img {
+	padding-top: none;
+}
+p {
+	font-style: normal;
+	font-family: sans-serif;
+	color: rgb(207,207,198);
+	font-size: 17px;
+	font-weight: 200;
+	
+	word-spacing: 2px;
+
+}
+
+.title {
+	color: rgb(207,207,198);
+	font-size: 44px;
+	font-weight: 800;
+	font-style: italic;
+	padding-top: none;
+	text-decoration: overline;
+}
+
+ul{
+    color: rgb(207,207,198);
+	font-size: 34px;
+	font-weight: 800;
+	font-style: italic;
+	list-style: none;
+}
+.contact {
+	font-style: normal;
+	font-family: sans-serif;
+	color: rgb(207,207,198);
+	font-size: 17px;
+}
+a {
+	color: green;
+}

@@ -1,0 +1,14 @@
+body {
+background-color: black;
+
+}
+
+h1, h2, p {
+color: green;
+
+}
+
+ul {
+	background-color: yellow;
+	color: black;
+}
